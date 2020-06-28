@@ -85,7 +85,7 @@ buffer2.toString('utf8') // 'Doom'
 
 En el ejemplo anterior ha sido reemplazado la primera posición de nuestro buffer, que contiene el valor **"d"** y al ser cambiado este debe ser representado como una codificación en `utf8` a lo que traduce en que **"D"** es equivalente a `0x44`
 
-## Metodos
+## Propiedades
 
 A continuación veremos algunas funciones básicas (pero muy útiles) cuando usamos buffers:
 
