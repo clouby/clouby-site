@@ -4,5 +4,5 @@ There are some features that i've like to add step by step:
 
 - [ ] Lazy Loading
 - [ ] Page Transitions
-- [ ] Incluede Poetry page
+- [ ] Include Poetry Page
 - [ ] Reduce content on Home Page
