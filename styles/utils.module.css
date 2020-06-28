@@ -1,0 +1,77 @@
+.heading2Xl {
+    font-size: 2.7rem;
+    line-height: 1.2;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 0.7rem 0;
+    font-family: Fira Code;
+    text-align: center;
+  }
+
+  .headingXl {
+    font-size: 2rem;
+    line-height: 1.3;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+  }
+
+  .headingTitle {
+    font-size: 2.1rem;
+    line-height: 1.4;
+    margin: 1rem 0;
+    font-weight: 900;
+  }
+
+  .fontPost p, .fontPost li {
+    word-spacing: 3px;
+    font-family: 'Roboto Slab';
+    line-height: 1.6;
+  }
+
+  .spaceList ul > li{
+    margin: 0.3rem 0rem;
+  }
+
+  .headingLg {
+    font-size: 1.5rem;
+    line-height: 1.4;
+    margin: 1rem 0;
+  }
+
+  .headingMd {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .borderCircle {
+    border-radius: 9999px;
+  }
+
+  .colorInherit {
+    color: inherit;
+  }
+
+  .padding1px {
+    padding-top: 1px;
+  }
+
+  .list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .listItem {
+    margin: 0 0 0.5rem;
+    padding: 0.7rem;
+  }
+
+  .lightText {
+    color: #999;
+    font-family: Roboto;
+  }

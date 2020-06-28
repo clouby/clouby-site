@@ -1,0 +1,42 @@
+.mainCard {
+    border-radius: 5px;
+    border: 1px dashed gray;
+    margin: 0rem 0rem 1rem;
+    padding: 1rem 2rem;
+}
+
+.mainCard a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.mainCard:hover {
+    border-style: dotted;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.noUnderline {
+    text-decoration: none;
+}
+
+.spaceOut {
+    margin: 0;
+}
+
+.avatarTitle {
+    color: lightgrey;
+    font-size: 1rem;
+    line-height: 10px;
+    display: flex;
+    align-items: center;
+    margin: 0.4rem 0.4rem;
+}
+
+.avatarTitle img {
+    width: 1.7rem;
+    height: 1.7rem;
+    display: inline-block;
+    border-radius: 9999px;
+    margin: 0rem 0.5rem;
+}
