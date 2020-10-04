@@ -1,7 +1,7 @@
 const withFonts = require('next-fonts');
 
 module.exports = withFonts({
-    webpack(config, options) {
+    webpack(config, _options) {
         return config;
     }
 });
